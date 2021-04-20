@@ -4017,14 +4017,14 @@ The following placeholders are the same as above but instead of specifying the s
 > NO DOWNLOAD COMMAND
 
 ```
-%streamingdrops_dropsamount%
-%streamingdrops_generaldropsamount%
-%streamingdrops_globallivetag%
 %streamingdrops_nextdroptime%
-%streamingdrops_senddrops%
-%streamingdrops_streamerlivetag%
-%streamingdrops_topdropsprefix%
 %streamingdrops_twitch%
+%streamingdrops_dropsamount%
+%streamingdrops_topdropsprefix%
+%streamingdrops_streamerlivetag%
+%streamingdrops_streamerlivetag_<minecraft_name>%
+%streamingdrops_generaldropsamount%
+%streamingdrops_senddrops%
 ```
 ----
 
